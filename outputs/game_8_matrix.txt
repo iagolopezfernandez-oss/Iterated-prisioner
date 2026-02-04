@@ -1,0 +1,12 @@
+Rewards: majority COOPERATE -> R=1370.0 to cooperators, r=200.0 to defectors; majority DEFECT or tie -> S=500.0 to defectors, 0 to cooperators.
+Game 8 decision matrix (rows=rounds, cols=Agent_1..Agent_9):
+0 0 0 0 0 1 1 1 1
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0

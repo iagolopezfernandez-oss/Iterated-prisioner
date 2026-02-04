@@ -1,0 +1,10 @@
+What does it take for each agent to cooperate?
+Agent_1: The potential for higher cumulative payoff through cooperation.
+Agent_2: Consistently higher payoffs from cooperation compared to defection.
+Agent_3: Potential for higher cumulative payoff compared to defecting.
+Agent_4: Consistent higher payoffs from cooperation compared to defection.
+Agent_5: Consistently high payoffs and low risk from cooperation.
+Agent_6: It would take an expectation of higher cumulative payoffs through cooperation compared to defection.
+Agent_7: Potential for higher expected payoff with acceptable risk.
+Agent_8: Consistently higher payoffs from cooperation compared to defection.
+Agent_9: I would cooperate if the expected payoff from cooperation exceeds the expected payoff from defection, considering both short-term and long-term outcomes.
