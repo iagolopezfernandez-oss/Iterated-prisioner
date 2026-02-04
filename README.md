@@ -1,2 +1,2 @@
 # iteratedPrisioner
-Iterated prisioner's dilemma game played by LLMs
+Iterated prisioner's dilemma game played by LLMs.
